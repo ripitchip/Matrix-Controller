@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "array": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp"
+    },
+    "cmake.sourceDirectory": "/workspace/src"
+}
